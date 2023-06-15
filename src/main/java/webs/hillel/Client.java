@@ -10,5 +10,7 @@ import java.nio.file.Paths;
 import java.util.Scanner;
 
 public class Client {
-1
+    public static void main(String[] args) {
+
+    }
 }
